@@ -1,2 +1,46 @@
-# 5d457b0f-local-business-notification-an
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Local Business Notification And Alert — fully configured and ready to use - Slash
+# Local Business Notification and Alert System Telegram Bot
+
+> Bot for Local Business
+
+The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.
+
+Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.
+
+## What's Included
+
+- Local Business Notification And Alert — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/aFa6oHh1B7Eo2hidI0cZC1U)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
